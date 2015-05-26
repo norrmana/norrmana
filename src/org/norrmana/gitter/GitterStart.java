@@ -4,7 +4,7 @@ public class GitterStart {
 
     @Override
     public String toString() {
-        return "Hello World!!! Whats up?";
+        return "Hello World!!! What's up in Morgan Town(West Virginia)? ";
     }
 
     public static void main(String[] args) {
